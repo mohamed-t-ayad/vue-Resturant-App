@@ -8,10 +8,14 @@ Vue Crud project with signup/login
  
  you won't be able to see content till you login 
  
- i made db as json file 
+ 
+ db is made as json file 
+ 
  to start the json serve 
  
  move to db directory and open your command line
+ 
  run command ==>  json-server db.json --watch
+ 
  
  you can use any of the useres at the db.json file or create your own account
