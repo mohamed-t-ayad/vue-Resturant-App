@@ -1,6 +1,6 @@
 # vue-Resturant-App
 
-Vue Crud project with signup/login 
+Vue.js simple Crud project with signup/login 
 
  to start the project locally 
  
