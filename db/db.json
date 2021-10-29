@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "ayad",
+      "email": "ayad@a.com",
+      "password": "ayad@123",
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "email": "admin@a.com",
+      "password": "admin@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "email": "peter@peter.com",
+      "password": "peter123",
+      "id": 3
+    },
+    {
+      "name": "peters",
+      "email": "peter@j.com",
+      "password": "peterpeterpeter",
+      "id": 4
+    },
+    {
+      "name": "erich",
+      "email": "erich@erich.com",
+      "password": "erich123",
+      "id": 5
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "password": "sam@123",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test@t.com",
+      "password": "testtest123",
+      "id": 7
+    }
+  ],
+  "resturants": [
+    {
+      "id": 1,
+      "name": "Burgger King",
+      "contact": "8965463",
+      "address": "Noida any where"
+    },
+    {
+      "name": "Bizza hutt",
+      "address": "main road way",
+      "contact": "015563",
+      "id": 2
+    }
+  ]
+}
