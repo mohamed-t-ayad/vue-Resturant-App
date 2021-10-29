@@ -1,8 +1,11 @@
 # vue-Resturant-App
 
 Vue Crud project with signup/login 
+
  to start the project locally 
+ 
  first run command ==> npm run serve
+ 
  you won't be able to see content till you login 
  
  i made db as json file 
